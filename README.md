@@ -1,11 +1,11 @@
 # Proxy Manager
 
 Менеджер подписок для прокси с поддержкой автообновления, конвертации JSON-конфигов и проксированием служебных заголовков.
-
+- **Демо:** [Proxy Manager](https://bobr-hwid.alwaysdata.net/sb/)
+- 
 ## Автор
 
 - **Telegram:** [t.me/bober41](https://t.me/bober41)
-- **Демо:** [Proxy Manager](https://bobr-hwid.alwaysdata.net/sb/)
 
 ---
 
