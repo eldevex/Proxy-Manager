@@ -5,6 +5,7 @@
 ## Автор
 
 - **Telegram:** [t.me/bober41](https://t.me/bober41)
+- **Демо:** [Proxy Manager](https://bobr-hwid.alwaysdata.net/sb/)
 
 ---
 
